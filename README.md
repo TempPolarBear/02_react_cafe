@@ -1,13 +1,13 @@
 # Cafe Feedback
 
-Небольшое React-приложение для сбора отзывов о кафе.
+A small React application for collecting cafe feedback.
 
 ## Features
 
-- Оценка по трём категориям: good, neutral и bad
-- Подсчёт общего количества отзывов и процента положительных
-- Сброс результатов
-- Сообщение, пока отзывов нет
+- Feedback in three categories: good, neutral, and bad
+- Total feedback count and positive-feedback percentage
+- Feedback reset
+- A message displayed before any feedback is submitted
 
 ## Technologies
 
